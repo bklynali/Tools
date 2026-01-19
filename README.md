@@ -2,35 +2,74 @@
 
 <h1 align="center"><img src="https://raw.githubusercontent.com/bklynali/Tools/refs/heads/main/ic.png" style="width: 96px;" alt="logo"></h1>
 
+
+## Downloads
+
+- [BKLYN Kernel Download](https://github.com/bklynali/Tools/releases/tag/v1.2.3-Kernel)
+
+
+- [BKSettings APK Download](https://github.com/bklynali/Tools/releases/tag/v1.2.1-apk)
+
+
+
 ## BKSettings APK Features
+**NO ROOT** Need Shizuku
 
-- Download and install BK Kernels.
+ - Settings Mods
 
-- BKLYN MODs 
+ - Change SystemUI Icons 
 
-- Route Traffic to VPN
+ - Enable/Disable Apps
 
-- TTL Change
+ - Uninstall/Install Apps
 
-- Force Stop Apps
+ - Foce Stop apps like Greenify
 
-- Settings Mods
+ - Backup/Restore data for force stop list and enable/disable apps
 
-- CSC Change
+***ROOT NEEDED**
 
-- Service Mode
+ - Download and install BK Kernels.
 
-- Advance Service Menu
+ - BKLYN MODs 
 
-- IMS update for T-Mobile and others
+ - Route Traffic to VPN
+
+ - TTL Change
+
+ - Force Stop Apps
+
+ - Settings Mods
+
+ - CSC Change
+
+ - Service Mode
+
+ - Advance Service Menu
+
+ - IMS update for T-Mobile and others
+
+ - CPU/GPU Monitor
+
+ - Kernel Flasher
+
+ - Battery Monitor
+
+ - Kernel Profile change
+
+ - Kernel Parameters
+
+ - Memory ZRAM Mod
+
+ - Boeffla Wakelock Blocker (Kernel support needed)
+
+ - Force Stop apps
+
+ - Clear data for apps
 
 ## BKLYN MODs Script
 
 - Disable IPv6 on all relevant network interfaces
-
-- Turn off ZRAM swap
-
-- Set I/O scheduler to 'none' for all block devices
 
 - Apply deep sleep fixes and system tweaks
 
@@ -45,4 +84,5 @@
 ## Sources
 
 - [BKLYN Kernel Source](https://github.com/bklynali/BKLYN-Kernel): - BKLYN Kernel
+
 - [BK-KSU](https://github.com/bklynali/BK-KSU): – BK-KSU Based on KernelSU
