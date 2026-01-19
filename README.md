@@ -2,6 +2,16 @@
 
 <h1 align="center"><img src="https://raw.githubusercontent.com/bklynali/Tools/refs/heads/main/ic.png" style="width: 96px;" alt="logo"></h1>
 
+
+## Kernel Download
+
+- [BKLYN Kernel Download](https://github.com/bklynali/Tools/releases/tag/v1.1.5-Kernel)
+
+
+- [BKSettings APK Download](https://github.com/bklynali/Tools/releases/tag/v1.1.4-apk)
+
+
+
 ## BKSettings APK Features
 
 - Download and install BK Kernels.
@@ -24,6 +34,18 @@
 
 - IMS update for T-Mobile and others
 
+ - CPU/GPU Monitor
+
+ - Kernel Flasher
+
+ - Battery Monitor
+
+ - Kernel Profile change
+
+ - Kernel Parameters
+
+ - Memory ZRAM Mod
+
 ## BKLYN MODs Script
 
 - Disable IPv6 on all relevant network interfaces
@@ -45,4 +67,5 @@
 ## Sources
 
 - [BKLYN Kernel Source](https://github.com/bklynali/BKLYN-Kernel): - BKLYN Kernel
+
 - [BK-KSU](https://github.com/bklynali/BK-KSU): – BK-KSU Based on KernelSU
