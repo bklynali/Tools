@@ -24,6 +24,18 @@
 
 - IMS update for T-Mobile and others
 
+ - CPU/GPU Monitor
+
+ - Kernel Flasher
+
+ - Battery Monitor
+
+ - Kernel Profile change
+
+ - Kernel Parameters
+
+ - Memory ZRAM Mod
+
 ## BKLYN MODs Script
 
 - Disable IPv6 on all relevant network interfaces
@@ -45,4 +57,5 @@
 ## Sources
 
 - [BKLYN Kernel Source](https://github.com/bklynali/BKLYN-Kernel): - BKLYN Kernel
+
 - [BK-KSU](https://github.com/bklynali/BK-KSU): – BK-KSU Based on KernelSU
